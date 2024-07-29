@@ -1,0 +1,7 @@
+{
+    "/api": {
+      "target": "https://www.newline.co/fullstack-react/assets/media/sGEMe/MNzue/30-days-of-react-ebook-fullstackio.pdf",
+      "secure": false,
+      "changeOrigin": true
+    }
+  }
